@@ -1,0 +1,5 @@
+﻿{
+  "CrmUrl": "{crm instance url}",
+  "UserName": "{crm admin username}",
+  "Password": "{crm admin password}"
+}
